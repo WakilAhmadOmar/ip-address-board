@@ -2,11 +2,11 @@
 
 A modern, responsive React application for managing and searching IP addresses with real-time filtering capabilities and visual classification of IP address types.
 
-![IP Address Board Screenshot](./src/assets/Screenshot.png)
+![IP Address Board Screenshot](./src/assets/images/Screenshot.png)
 
 ## Live Demo
 
-[View Live Demo](https://ip-address-search-board.vercel.app)
+[View Live Demo](https://ip-address-board.vercel.app/)
 
 ## Features
 
